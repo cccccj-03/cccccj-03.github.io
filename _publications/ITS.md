@@ -1,7 +1,7 @@
 ---
 title: "Traffic node importance evaluation based on clustering in represented transportation networks"
 collection: publications
-category: journal
+category: manuscripts
 permalink: /publication/ITS
 date: 2022-04-13
 venue: 'IEEE Transactions on Intelligent Transportation Systems, 23(9), 16622-16631'
