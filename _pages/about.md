@@ -12,3 +12,19 @@ I am going to be a 2025 fall P.hd in HKU EEE, supervised by Prof Edith C. H. Nga
 My research interests include multi-modal learning, affective computing, AI for healthcare, and intelligent transportation systems (spatial-temporal data prediction). I always welcome the opportunity for research collaboration, and I'm eager to explore potential research ideas. My CV can be found here:[CV](../files/CV_chenjian_E20250625.pdf).
 
 If you're interested, please feel free to drop me an email (cccccj03@gmail.com).
+
+
+## Selected Publication
+<table>
+  <tr>
+    <td width="50%">
+      <img src="[你的图片链接](https://github.com/cccccj-03/TGCA-PVT/blob/8bfc060d4b00d0a5a4c269b55b6afc0489f7232e/TGCA-PVT.png).jpg" alt="TGCA-PVT" width="100%">
+    </td>
+    <td>
+      TGCA-PVT: Topic-Guided Context-Aware Pyramid Vision Transformer for Sticker Emotion Recognition, ACM MM 2024 (poster) [code](https://github.com/cccccj-03/TGCA-PVT/blob/main/README.md)/[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3680781)
+    </td>
+  </tr>
+</table>
+
+
+
