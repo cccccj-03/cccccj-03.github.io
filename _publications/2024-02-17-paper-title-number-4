@@ -1,13 +1,21 @@
 ---
 title: "TGCA-PVT: Topic-Guided Context-Aware Pyramid Vision Transformer for Sticker Emotion Recognition"
 collection: publications
-category: conferences
+category: Affective Computing
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'This paper is about sticker emotion recognition, which includes image and text data.'
 date: 2024-10-28
 venue: 'Proceedings of the 32nd ACM International Conference on Multimedia'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3664647.3680781'
 citation: 'Chen, J., Wang, W., Hu, Y., Chen, J., Liu, H., & Hu, X. (2024, October). TGCA-PVT: Topic-Guided Context-Aware Pyramid Vision Transformer for Sticker Emotion Recognition. In Proceedings of the 32nd ACM International Conference on Multimedia (pp. 9709-9718).'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+title: "Graph enhanced low-resource ECG representation learning for emotion recognition based on wearable internet of things"
+collection: publications
+category: Affective Computing
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 'This paper is about single-lead ECG-based emotion recognition.'
+date: 2024-07-18
+venue: 'IEEE Internet of Things Journal'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10602500'
+citation: 'Chen, J., Hu, Y., Garg, L., Gadekallu, T. R., Srivastava, G., & Wang, W. (2024). Graph enhanced low-resource ECG representation learning for emotion recognition based on wearable internet of things. IEEE Internet of Things Journal..'
+---
