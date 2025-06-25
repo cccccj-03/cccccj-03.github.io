@@ -18,7 +18,7 @@ If you're interested, please feel free to drop me an email (cccccj03@gmail.com).
 <table>
   <tr>
     <td width="50%">
-      <img src="[你的图片链接](https://github.com/cccccj-03/TGCA-PVT/blob/8bfc060d4b00d0a5a4c269b55b6afc0489f7232e/TGCA-PVT.png).jpg" alt="TGCA-PVT" width="100%">
+      <img src="[你的图片链接](../image/TGCA-PVT.png).jpg" alt="TGCA-PVT" width="100%">
     </td>
     <td>
       TGCA-PVT: Topic-Guided Context-Aware Pyramid Vision Transformer for Sticker Emotion Recognition, ACM MM 2024 (poster) [code](https://github.com/cccccj-03/TGCA-PVT/blob/main/README.md)/[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3680781)
