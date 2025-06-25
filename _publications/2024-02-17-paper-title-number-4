@@ -1,0 +1,13 @@
+---
+title: "TGCA-PVT: Topic-Guided Context-Aware Pyramid Vision Transformer for Sticker Emotion Recognition"
+collection: publications
+category: conferences
+permalink: /publication/2024-02-17-paper-title-number-4
+excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+date: 2024-10-28
+venue: 'Proceedings of the 32nd ACM International Conference on Multimedia'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3664647.3680781'
+citation: 'Chen, J., Wang, W., Hu, Y., Chen, J., Liu, H., & Hu, X. (2024, October). TGCA-PVT: Topic-Guided Context-Aware Pyramid Vision Transformer for Sticker Emotion Recognition. In Proceedings of the 32nd ACM International Conference on Multimedia (pp. 9709-9718).'
+---
+
+Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
