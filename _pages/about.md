@@ -14,9 +14,11 @@ My research interests include multi-modal learning, affective computing, AI for 
 If you're interested, please feel free to drop me an email (cccccj03@gmail.com).
 
 ## News 
-**2025.04.29** One paper about ECG-Report Representation Learning was accepted by **IJCAI 2025**!!
+**❗️❗️2025.07.07** One paper about Sticker Emotion Recognition inspired by the human ability to interpret sticker emotions from multiple views with MLLMs was accepted by **ACM MM 2025**!!
 
-**2024.07.16** One paper about Sticker Emotion Recognition was accepted by **ACM MM 2024**!!
+**❗️❗️2025.04.29** One paper about ECG-Report Representation Learning was accepted by **IJCAI 2025**!!
+
+**❗️❗️2024.07.16** One paper about Sticker Emotion Recognition was accepted by **ACM MM 2024**!!
 
 
 ## Selected Publication
