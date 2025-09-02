@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am going to be a 2025 fall P.hd student in HKU EEE, IoT lab supervised by Prof Edith C. H. Ngai. I attended Sun Yat-sen University, where I earned my Bachelor of Engineering (B.E.) and Master of Engineering (M.E.) degrees in Transportation Engineering from 2018 to 2022 and 2022 to 2025, respectively under the supervision of Prof. Wei Wang.
+I am now a first-year fall P.hd student in HKU EEE, IoT lab supervised by Prof Edith C. H. Ngai. I attended Sun Yat-sen University, where I earned my Bachelor of Engineering (B.E.) and Master of Engineering (M.E.) degrees in Transportation Engineering from 2018 to 2022 and 2022 to 2025, respectively, under the supervision of Prof. Wei Wang.
 
 My research interests include multi-modal learning, affective computing, AI for healthcare, and intelligent transportation systems (spatial-temporal data prediction). I always welcome the opportunity for research collaboration, and I'm eager to explore potential research ideas. My CV can be found here:[CV](../files/CV_chenjian_20250709.pdf).
 
