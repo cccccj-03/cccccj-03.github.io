@@ -29,7 +29,25 @@ If you're interested, please feel free to drop me an email (cccccj03@gmail.com).
     </td>
     <td>
       <strong>TGCA-PVT</strong>: Topic-Guided Context-Aware Pyramid Vision Transformer for Sticker Emotion Recognition, <strong>ACM MM 2024</strong> (Poster)  
-      👉 <a href="https://github.com/cccccj-03/TGCA-PVT/blob/main">[Code]</a> / <a href="https://dl.acm.org/doi/abs/10.1145/3664647.3680781">[Paper]</a>
+      👉 <a href="https://github.com/cccccj-03/TGCA-PVT">[Code]</a> / <a href="https://dl.acm.org/doi/abs/10.1145/3664647.3680781">[Paper]</a>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%">
+      <img src="../images/DERI.png" alt="DERI" width="100%">
+    </td>
+    <td>
+      <strong>DERI</strong>: Cross-Modal ECG Representation Learning with Deep ECG-Report Interaction, <strong>IJCAI 2025</strong> (Oral)  
+      👉 <a href="https://github.com/cccccj-03/DERI">[Code]</a> / <a href="https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4530.pdf">[Paper]</a>(preprint)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="../images/MGHFT.png" alt="MGHFT" width="100%">
+    </td>
+    <td>
+      <strong>MGHFT</strong>: Multi-Granularity Hierarchical Fusion Transformer for Cross-Modal Sticker Emotion Recognition, <strong>ACM MM 2025</strong> (Oral)  
+      👉 <a href="https://github.com/cccccj-03/MGHFT_ACMMM2025/tree/main">[Code]</a>/ <a href="https://dl.acm.org/doi/abs/10.1145/3664647.3680781">[Paper]</a>
     </td>
   </tr>
 </table>
