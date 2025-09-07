@@ -23,7 +23,24 @@ If you're interested, please feel free to drop me an email (cccccj03@gmail.com).
 
 ## Selected Publication
 
+### AI for Healthcare
+
+<table>
+    <tr>
+    <td width="50%">
+      <img src="../images/DERI.png" alt="DERI" width="100%">
+    </td>
+    <td>
+      <strong>DERI</strong>: Cross-Modal ECG Representation Learning with Deep ECG-Report Interaction, <strong>IJCAI 2025</strong> (Oral)  
+      👉 <a href="https://github.com/cccccj-03/DERI">[Code]</a> / <a href="https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4530.pdf">[Paper]</a>(preprint)
+    </td>
+  </tr>
+</table>
+
+
+
 ### Affective Computing
+
 <table>
   <tr>
     <td width="50%">
@@ -45,17 +62,5 @@ If you're interested, please feel free to drop me an email (cccccj03@gmail.com).
   </tr>
 </table>
 
-### AI for Healthcare
 
-<table>
-    <tr>
-    <td width="50%">
-      <img src="../images/DERI.png" alt="DERI" width="100%">
-    </td>
-    <td>
-      <strong>DERI</strong>: Cross-Modal ECG Representation Learning with Deep ECG-Report Interaction, <strong>IJCAI 2025</strong> (Oral)  
-      👉 <a href="https://github.com/cccccj-03/DERI">[Code]</a> / <a href="https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4530.pdf">[Paper]</a>(preprint)
-    </td>
-  </tr>
-</table>
 
