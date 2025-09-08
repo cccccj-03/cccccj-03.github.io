@@ -2,7 +2,7 @@
 title: "TGCA-PVT: Topic-Guided Context-Aware Pyramid Vision Transformer for Sticker Emotion Recognition"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: https://github.com/cccccj-03/TGCA-PVT
 excerpt: 'This paper is about sticker emotion recognition, which includes image and text data.'
 date: 2024-10-28
 venue: 'Proceedings of the 32nd ACM International Conference on Multimedia'
