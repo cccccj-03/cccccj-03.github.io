@@ -2,7 +2,7 @@
 title: "MGHFT: Multi-Granularity Hierarchical Fusion Transformer for Cross-Modal Sticker Emotion Recognition"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: https://github.com/cccccj-03/MGHFT_ACMMM2025
 excerpt: 'This paper is about Sticker Emotion Recognition inspired by the human ability to interpret sticker emotions from multiple views with MLLMs.'
 date: 2025-07-25
 venue: 'Proceedings of the 33nd ACM International Conference on Multimedia'
