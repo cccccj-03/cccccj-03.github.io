@@ -44,20 +44,20 @@ If you're interested, please feel free to drop me an email (cccccj03@gmail.com).
 <table>
   <tr>
     <td width="50%">
-      <img src="../images/TGCA-PVT.png" alt="TGCA-PVT" width="100%">
-    </td>
-    <td>
-      <strong>TGCA-PVT</strong>: Topic-Guided Context-Aware Pyramid Vision Transformer for Sticker Emotion Recognition, <strong>ACM MM 2024</strong> (Poster)  
-      👉 <a href="https://github.com/cccccj-03/TGCA-PVT">[Code]</a> / <a href="https://dl.acm.org/doi/abs/10.1145/3664647.3680781">[Paper]</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <img src="../images/MGHFT.png" alt="MGHFT" width="100%">
     </td>
     <td>
       <strong>MGHFT</strong>: Multi-Granularity Hierarchical Fusion Transformer for Cross-Modal Sticker Emotion Recognition, <strong>ACM MM 2025</strong> (Oral)  
       👉 <a href="https://github.com/cccccj-03/MGHFT_ACMMM2025/tree/main">[Code]</a>/ <a href="https://arxiv.org/abs/2507.18929">[Paper]</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="../images/TGCA-PVT.png" alt="TGCA-PVT" width="100%">
+    </td>
+    <td>
+      <strong>TGCA-PVT</strong>: Topic-Guided Context-Aware Pyramid Vision Transformer for Sticker Emotion Recognition, <strong>ACM MM 2024</strong> (Poster)  
+      👉 <a href="https://github.com/cccccj-03/TGCA-PVT">[Code]</a> / <a href="https://dl.acm.org/doi/abs/10.1145/3664647.3680781">[Paper]</a>
     </td>
   </tr>
 </table>
