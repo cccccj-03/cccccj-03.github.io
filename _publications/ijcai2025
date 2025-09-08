@@ -1,0 +1,11 @@
+---
+title: "DERI: Cross-Modal ECG Representation Learning with Deep ECG-Report Interaction"
+collection: publications
+category: conferences
+permalink: https://github.com/cccccj-03/DERI
+excerpt: 'This paper is about ECG-Report Multi-modal Representation Learning.'
+date: 2025-8-30
+venue: 'IJCAI 2025'
+paperurl: 'https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/4530.pdf'
+citation: 'Chen, J., Dong, X., Wang, W., Zhou, S., Yu, L., & Hu, X. DERI: Cross-Modal ECG Representation Learning with Deep ECG-Report Interaction.'
+---
